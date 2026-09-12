@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*=======================================================
+            HEADER PART
+=======================================================*/
+
+.logo-text {
+    font-size: 25px;
+    text-decoration: none;
+    color: #171717;
+}
+
